@@ -1444,6 +1444,91 @@
       "entry_price": null,
       "exit_date": null,
       "entry_date": "2026-08-10"
+    },
+    {
+      "id": "9143590243_MU_20260810",
+      "uid": 9143590243,
+      "user": "Morgan Stanley",
+      "stock": "MU",
+      "direction": "bearish",
+      "text": "Morgan Stanley：美光(MU) 第一次风险释放已完成，但后市将进入震荡整理(consolidation ahead)。Citi下调目标价至$1,150 (逆势指标，Citi往往在高点顶部、在低点底部)。",
+      "confidence": 0.65,
+      "created": "2026-08-10T12:30:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
+    },
+    {
+      "id": "6283366886_GOOG_20260810",
+      "uid": 6283366886,
+      "user": "伯克希尔哈撒韦",
+      "stock": "GOOG",
+      "direction": "bullish",
+      "text": "巴菲特旗下伯克希尔哈撒韦Q2新建仓Alphabet(GOOG)，跻身前5大重仓股。价值投资大师进场信号。",
+      "confidence": 0.75,
+      "created": "2026-08-10T12:30:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
+    },
+    {
+      "id": "1600253516_ALB_20260810",
+      "uid": 1600253516,
+      "user": "机构跟踪",
+      "stock": "ALB",
+      "direction": "bearish",
+      "text": "Albemarle(ALB) 2026年指引22.5-23.5T，低于2025年的23.5T（同比下降）。CGP-3工厂火灾影响被夸大，实际目标仅-2%。",
+      "confidence": 0.6,
+      "created": "2026-08-10T12:30:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
+    },
+    {
+      "id": "4745422837_PDD_20260810",
+      "uid": 4745422837,
+      "user": "晨希音",
+      "stock": "PDD",
+      "direction": "bearish",
+      "text": "较早减仓了拼多多，从重仓变轻仓。股东回报差：6年累计经营现金流4285亿人民币，资本开支仅66.6亿(0.9%)，不分红回购。价值陷阱争议。",
+      "confidence": 0.65,
+      "created": "2026-08-10T12:30:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
+    },
+    {
+      "id": "8966640306_PDD_20260810",
+      "uid": 8966640306,
+      "user": "Waterzzz",
+      "stock": "PDD",
+      "direction": "bearish",
+      "text": "拼多多(PDD)：一个价值陷阱。管理层破坏宙斯法则，对待股东方式不负责任。",
+      "confidence": 0.6,
+      "created": "2026-08-10T12:30:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
     }
   ],
   "ranked": [
@@ -2128,6 +2213,224 @@
       "verified": false,
       "actual_change": null,
       "source": "futu"
+    },
+    {
+      "uid": null,
+      "nickname": "月球人",
+      "stock": "NVDA",
+      "direction": "bear",
+      "target": "205-215",
+      "entry": "$219",
+      "rr": null,
+      "confidence": "high",
+      "source": "futu",
+      "timestamp": "2026-08-10T23:07:00.078241"
+    },
+    {
+      "uid": null,
+      "nickname": "232915360",
+      "stock": "NVDA",
+      "direction": "bear",
+      "target": "sub-215",
+      "entry": "$219",
+      "rr": null,
+      "confidence": "high",
+      "source": "futu",
+      "timestamp": "2026-08-10T23:07:00.078241"
+    },
+    {
+      "uid": null,
+      "nickname": "股价毒药小鲨",
+      "stock": "NVDA",
+      "direction": "bear",
+      "target": "sell the bounce",
+      "entry": "$220",
+      "rr": null,
+      "confidence": "medium",
+      "source": "futu",
+      "timestamp": "2026-08-10T23:07:00.078241"
+    },
+    {
+      "uid": null,
+      "nickname": "凡者道之動弱則道之用",
+      "stock": "NVDA",
+      "direction": "bull",
+      "target": "$217.50",
+      "entry": "$219",
+      "rr": null,
+      "confidence": "Medium",
+      "source": "futu",
+      "timestamp": "2026-08-10T23:07:00.078241"
+    },
+    {
+      "uid": null,
+      "nickname": "Acacghbmkk",
+      "stock": "AMZN",
+      "direction": "bull",
+      "target": "$300",
+      "entry": "$277",
+      "rr": "+8%",
+      "confidence": "Medium",
+      "source": "futu",
+      "timestamp": "2026-08-10T23:07:00.078241"
+    },
+    {
+      "uid": null,
+      "nickname": "別人恐懼我拋錨",
+      "stock": "GOOGL",
+      "direction": "bull",
+      "target": "$350",
+      "entry": "$354",
+      "rr": null,
+      "confidence": "Medium",
+      "source": "futu",
+      "timestamp": "2026-08-10T23:07:00.078241"
+    },
+    {
+      "uid": null,
+      "nickname": "riany",
+      "stock": "AAPL",
+      "direction": "bear",
+      "target": "$200s",
+      "entry": "$306",
+      "rr": null,
+      "confidence": "Medium",
+      "source": "futu",
+      "timestamp": "2026-08-10T23:07:00.078241"
+    },
+    {
+      "uid": null,
+      "nickname": "等BE上500",
+      "stock": "MSFT",
+      "direction": "bull",
+      "target": "$550",
+      "entry": "$509",
+      "rr": "+8%",
+      "confidence": "Medium",
+      "source": "futu",
+      "timestamp": "2026-08-10T23:07:00.078241"
+    },
+    {
+      "uid": null,
+      "nickname": "空降部隊鍋",
+      "stock": "TSLA",
+      "direction": "bear",
+      "target": "below $328",
+      "entry": "$329",
+      "rr": null,
+      "confidence": "high",
+      "source": "futu",
+      "timestamp": "2026-08-10T23:07:00.078241"
+    }
+  ],
+  "tracked_users": [
+    {
+      "uid": null,
+      "nickname": "月球人",
+      "source": "futu",
+      "stocks": [
+        "NVDA"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "232915360",
+      "source": "futu",
+      "stocks": [
+        "NVDA"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "Acacghbmkk",
+      "source": "futu",
+      "stocks": [
+        "AMZN"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "別人恐懼我拋錨",
+      "source": "futu",
+      "stocks": [
+        "GOOGL"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "riany",
+      "source": "futu",
+      "stocks": [
+        "AAPL"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "等BE上500",
+      "source": "futu",
+      "stocks": [
+        "MSFT"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "空降部隊鍋",
+      "source": "futu",
+      "stocks": [
+        "TSLA"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "股价毒药小鲨",
+      "source": "futu",
+      "stocks": [
+        "NVDA"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "凡者道之動弱則道之用",
+      "source": "futu",
+      "stocks": [
+        "NVDA"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
     }
   ]
 }
