@@ -1359,6 +1359,57 @@
       "entry_price": null,
       "exit_date": null,
       "entry_date": "2026-08-10"
+    },
+    {
+      "id": "3966787330_LRCX_20260810",
+      "uid": 3966787330,
+      "user": "MZInvest商业和投资",
+      "stock": "LRCX",
+      "direction": "bullish",
+      "text": "Lam Research(LRCX) 业绩创新高，NAND复苏+AI先进封装需求强劲，上调2026年行业预期至1500亿美元。",
+      "confidence": 0.7,
+      "created": "2026-08-10T12:30:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
+    },
+    {
+      "id": "3546915815_LRCX_20260810",
+      "uid": 3546915815,
+      "user": "超级闲人大山的马甲",
+      "stock": "LRCX",
+      "direction": "bullish",
+      "text": "Lam Research(LRCX) 总营收67.2亿美元，再创单季历史新高，Non-GAAP毛利率52.0%。",
+      "confidence": 0.7,
+      "created": "2026-08-10T12:30:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
+    },
+    {
+      "id": "384547796_MRVL_20260810",
+      "uid": 384547796,
+      "user": "炒股养老灯",
+      "stock": "MRVL",
+      "direction": "bearish",
+      "text": "Marvell(MRVL) AI内存新品发布(大涨~11%)但分析师认为会利空MRVL和AVGO.",
+      "confidence": 0.5,
+      "created": "2026-08-10T12:30:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
     }
   ],
   "ranked": [
@@ -1697,6 +1748,27 @@
       "total": 1,
       "correct": 0,
       "notes": "MSFT云服务+40%, AI回报"
+    },
+    {
+      "user": "MZInvest商业和投资",
+      "accuracy": 0.5,
+      "total": 1,
+      "correct": 0,
+      "notes": "LRCX bullish — NAND复苏, AI先进封装, 2026年行业上调至1500亿美元"
+    },
+    {
+      "user": "超级闲人大山的马甲",
+      "accuracy": 0.5,
+      "total": 1,
+      "correct": 0,
+      "notes": "LRCX bullish — 营收67.2亿美元创历史新高, 毛利率52%"
+    },
+    {
+      "user": "炒股养老灯",
+      "accuracy": 0.5,
+      "total": 1,
+      "correct": 0,
+      "notes": "MRVL bearish — AI内存会利空MRVL/AVGO"
     }
   ],
   "us_predictions": [
