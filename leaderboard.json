@@ -1155,6 +1155,74 @@
       "entry_price": 28.780000686645508,
       "exit_date": "2026-08-07",
       "entry_date": "2026-07-31"
+    },
+    {
+      "id": "5301271465_00020_20260810",
+      "uid": 5301271465,
+      "user": "高盛 (Goldman Sachs)",
+      "stock": "00020",
+      "direction": "bearish",
+      "text": "高盛将商汤科技投资评级从买入下调至中性，目标价从3.55港元下调至2.00港元。竞争加剧、商业化不及预期。",
+      "confidence": 0.9,
+      "created": "2026-08-10T11:30:30.003600",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": 3.55,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
+    },
+    {
+      "id": "7109348120_01361_20260810",
+      "uid": 7109348120,
+      "user": "老俊猫",
+      "stock": "01361",
+      "direction": "bullish",
+      "text": "361度（01361.HK）最近3年的派息力度比以前大多了，股价也涨了很多，股息率6.84%，营收年年涨，毛利率不低。",
+      "confidence": 0.5,
+      "created": "2026-08-10T11:30:30.003616",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
+    },
+    {
+      "id": "9166350113_06808_20260810",
+      "uid": 9166350113,
+      "user": "静水流深2020",
+      "stock": "06808",
+      "direction": "bullish",
+      "text": "高鑫零售（06808.HK）账面100亿现金放着算是给股东交代，空头2.92%/2.78亿股 at HK$1.02，消费只持有你。",
+      "confidence": 0.6,
+      "created": "2026-08-10T11:30:30.003620",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
+    },
+    {
+      "id": "8337470288_01347_20260810",
+      "uid": 8337470288,
+      "user": "AI_fanatics",
+      "stock": "01347",
+      "direction": "bullish",
+      "text": "华虹宏力：空头踩空-27.1%退场，股价大涨3.29%，利多信号清晰。中芯卖空+10.2%，空头不信反弹。",
+      "confidence": 0.6,
+      "created": "2026-08-10T11:30:30.003624",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
     }
   ],
   "ranked": [
@@ -1416,6 +1484,34 @@
       "recent_stocks": [
         "00522"
       ]
+    },
+    {
+      "user": "高盛 (Goldman Sachs)",
+      "accuracy": 1.0,
+      "total": 1,
+      "correct": 1,
+      "notes": "Goldman Sachs analyst calls on HK stocks"
+    },
+    {
+      "user": "驰妈",
+      "accuracy": 0.0,
+      "total": 1,
+      "correct": 0,
+      "notes": "Posted 商汤-W bearish call (高盛 downgrade)"
+    },
+    {
+      "user": "老俊猫",
+      "accuracy": 0.5,
+      "total": 1,
+      "correct": 0,
+      "notes": "Posted 361度 dividend analysis"
+    },
+    {
+      "user": "AI_fanatics",
+      "accuracy": 0.5,
+      "total": 1,
+      "correct": 0,
+      "notes": "Posted 中芯/华虹 short squeeze analysis"
     }
   ],
   "us_predictions": [
