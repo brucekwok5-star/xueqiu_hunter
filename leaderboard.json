@@ -1257,6 +1257,57 @@
       "entry_price": null,
       "exit_date": null,
       "entry_date": "2026-08-10"
+    },
+    {
+      "id": "7373023872_01357_20260810",
+      "uid": 7373023872,
+      "user": "独立思考的猫头鹰",
+      "stock": "01357",
+      "direction": "bullish",
+      "text": "美图公司(01357) 评级买入，目标价12.3港元。AI商业化加速，利润增长确定性高。",
+      "confidence": 0.7,
+      "created": "2026-08-10T12:30:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
+    },
+    {
+      "id": "6941686102_01357_20260810",
+      "uid": 6941686102,
+      "user": "江南侣布一",
+      "stock": "01357",
+      "direction": "bullish",
+      "text": "美图公司(01357) 预估今年利润15亿港币左右，明年利润增长33%到20亿港币，ROE超过20%，现金流好，估值理性30倍起。",
+      "confidence": 0.6,
+      "created": "2026-08-10T12:30:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
+    },
+    {
+      "id": "5528484076_09926_20260810",
+      "uid": 5528484076,
+      "user": "挣退休金的",
+      "stock": "09926",
+      "direction": "bullish",
+      "text": "康方生物(09926) 主力喜欢每年8、9月份发起年度行情，去年8-9月轮流创新高。创新药赛道性强。",
+      "confidence": 0.5,
+      "created": "2026-08-10T12:30:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
     }
   ],
   "ranked": [
@@ -1553,6 +1604,27 @@
       "total": 2,
       "correct": 2,
       "notes": "Morgan Stanley analyst calls on HK stocks (中芯HK$135, 联想HK$30-34)"
+    },
+    {
+      "user": "独立思考的猫头鹰",
+      "accuracy": 0.5,
+      "total": 1,
+      "correct": 0,
+      "notes": "Posted 01357美图 买入评级 目标价HK$12.3"
+    },
+    {
+      "user": "江南侣布一",
+      "accuracy": 0.5,
+      "total": 1,
+      "correct": 0,
+      "notes": "Posted 01357美图 利润预测 今年15亿明年20亿 ROE>20%"
+    },
+    {
+      "user": "挣退休金的",
+      "accuracy": 0.5,
+      "total": 1,
+      "correct": 0,
+      "notes": "Posted 09926康方生物 8-9月年度行情规律"
     }
   ],
   "us_predictions": [
