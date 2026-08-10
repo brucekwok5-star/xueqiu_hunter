@@ -1410,6 +1410,23 @@
       "entry_price": null,
       "exit_date": null,
       "entry_date": "2026-08-10"
+    },
+    {
+      "id": "6369155207_QCOM_20260810",
+      "uid": 6369155207,
+      "user": "7X24快讯",
+      "stock": "QCOM",
+      "direction": "bullish",
+      "text": "高通(QCOM) 计划自9月1日起上调产品报价，涨幅达两位数，以推动利润率回归历史水平 (2026-07-30). CEO安蒙确认。",
+      "confidence": 0.7,
+      "created": "2026-08-10T12:30:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-10"
     }
   ],
   "ranked": [
@@ -2039,6 +2056,58 @@
       "text": "今晚稍後下跌",
       "confidence": 0.6,
       "created": "2026-08-10T22:07:00.795422",
+      "verified": false,
+      "actual_change": null,
+      "source": "futu"
+    },
+    {
+      "id": "2113413458_NVDA_20260810_222839",
+      "uid": 2113413458,
+      "user": "月球人",
+      "stock": "NVDA",
+      "direction": "bearish",
+      "text": "瀑布式下瀉——NVDA -1.54% in 2 min",
+      "confidence": 0.8,
+      "created": "2026-08-10T22:28:39.549019",
+      "verified": false,
+      "actual_change": null,
+      "source": "futu"
+    },
+    {
+      "id": "395301824_NVDA_20260810_222839",
+      "uid": 395301824,
+      "user": "abc134j",
+      "stock": "NVDA",
+      "direction": "bearish",
+      "text": "起碼百分之4——預期更大跌幅",
+      "confidence": 0.75,
+      "created": "2026-08-10T22:28:39.549029",
+      "verified": false,
+      "actual_change": null,
+      "source": "futu"
+    },
+    {
+      "id": "17120548_NVDA_20260810_222839",
+      "uid": 17120548,
+      "user": "無情的 韭",
+      "stock": "NVDA",
+      "direction": "bearish",
+      "text": "帶崩大盤",
+      "confidence": 0.7,
+      "created": "2026-08-10T22:28:39.549033",
+      "verified": false,
+      "actual_change": null,
+      "source": "futu"
+    },
+    {
+      "id": "2912413942_NVDA_20260810_222839",
+      "uid": 2912413942,
+      "user": "最終生還者",
+      "stock": "NVDA",
+      "direction": "bullish",
+      "text": "等回220回落，再等200重新入場——等回調低吸",
+      "confidence": 0.7,
+      "created": "2026-08-10T22:28:39.549044",
       "verified": false,
       "actual_change": null,
       "source": "futu"
