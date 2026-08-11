@@ -1529,6 +1529,40 @@
       "entry_price": null,
       "exit_date": null,
       "entry_date": "2026-08-10"
+    },
+    {
+      "id": "3367275771_00005_20260811",
+      "uid": 3367275771,
+      "user": "财闻",
+      "stock": "00005",
+      "direction": "bullish",
+      "text": "高盛：升汇丰控股目标价至193港元，料第三季回购15亿美元",
+      "confidence": 0.65,
+      "created": "2026-08-11T12:00:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-11"
+    },
+    {
+      "id": "6436089893_00005_20260811",
+      "uid": 6436089893,
+      "user": "随风暖空气舞",
+      "stock": "00005",
+      "direction": "bearish",
+      "text": "花旗再出研报，下调目标价，由看多改为中性",
+      "confidence": 0.65,
+      "created": "2026-08-11T12:00:00",
+      "accuracy": null,
+      "verified": false,
+      "exit_price": null,
+      "pct_move": null,
+      "entry_price": null,
+      "exit_date": null,
+      "entry_date": "2026-08-11"
     }
   ],
   "ranked": [
@@ -2321,6 +2355,697 @@
       "confidence": "high",
       "source": "futu",
       "timestamp": "2026-08-10T23:07:00.078241"
+    },
+    {
+      "uid": null,
+      "nickname": "皓軒",
+      "source": "futu",
+      "stocks": [
+        "PDD"
+      ],
+      "signal": "BULL",
+      "target": "125",
+      "note": "target 125年底",
+      "time": "13分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "kris 爱投资",
+      "source": "futu",
+      "stocks": [
+        "PDD"
+      ],
+      "signal": "BULL",
+      "target": "120",
+      "note": "target 120年底",
+      "time": "24分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "买够一百万拼多多",
+      "source": "futu",
+      "stocks": [
+        "PDD"
+      ],
+      "signal": "BEAR",
+      "note": "afraid of rally",
+      "time": "27分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "Sunny2023",
+      "source": "futu",
+      "stocks": [
+        "PDD"
+      ],
+      "signal": "BEAR",
+      "note": "doubtful on earnings",
+      "time": "13分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "群雄逐鹿1",
+      "source": "futu",
+      "stocks": [
+        "TSLA"
+      ],
+      "signal": "BEAR",
+      "target": "300",
+      "note": "target 300",
+      "time": "7分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "没人比我更懂k线",
+      "source": "futu",
+      "stocks": [
+        "TSLA"
+      ],
+      "signal": "BEAR",
+      "note": "330 rejection",
+      "time": "1分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "小鹏汽车空军总司令",
+      "source": "futu",
+      "stocks": [
+        "TSLA"
+      ],
+      "signal": "BEAR",
+      "note": "distribution top",
+      "time": "7分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "埋棵种子",
+      "source": "futu",
+      "stocks": [
+        "ALB"
+      ],
+      "signal": "BULL",
+      "target": "180",
+      "note": "target 180",
+      "time": "6小時前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "断虚热",
+      "source": "futu",
+      "stocks": [
+        "MU"
+      ],
+      "signal": "BULL",
+      "note": "accumulate the dip",
+      "time": "1分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "美股Options Trader",
+      "source": "futu",
+      "stocks": [
+        "MU"
+      ],
+      "signal": "BEAR",
+      "note": "trend shift coming",
+      "time": "5分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "抽象樂天派",
+      "source": "futu",
+      "stocks": [
+        "GOOGL"
+      ],
+      "signal": "BEAR",
+      "note": "internal conflict",
+      "time": "2分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "無敌冲击波",
+      "source": "futu",
+      "stocks": [
+        "GOOGL"
+      ],
+      "signal": "BEAR",
+      "note": "confirming downtrend",
+      "time": "12分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "別人恐懼我拋錨",
+      "source": "futu",
+      "stocks": [
+        "GOOGL"
+      ],
+      "signal": "BULL",
+      "note": "add at 350 dip",
+      "time": "18分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "韭菜阿樂",
+      "source": "futu",
+      "stocks": [
+        "ARM"
+      ],
+      "signal": "BEAR",
+      "note": "confused selling",
+      "time": "46分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "青山股神加菲貓大師",
+      "source": "futu",
+      "stocks": [
+        "ARM"
+      ],
+      "signal": "BEAR",
+      "note": "distribution after AI hype",
+      "time": "1小時前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "你只會後悔買的不夠多",
+      "source": "futu",
+      "stocks": [
+        "ARM"
+      ],
+      "signal": "BEAR",
+      "note": "PE too high, short first",
+      "time": "2小時前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "奥特曼守夜人",
+      "source": "futu",
+      "stocks": [
+        "COIN"
+      ],
+      "signal": "BEAR",
+      "target": "100",
+      "note": "target 100",
+      "time": "24分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "順勢炒家",
+      "source": "futu",
+      "stocks": [
+        "COIN"
+      ],
+      "signal": "BEAR",
+      "note": "bitcoin dead end",
+      "time": "1小時前",
+      "added": "2026-08-10"
+    },
+    {
+      "uid": null,
+      "nickname": "开畅的杜魯",
+      "source": "futu",
+      "stocks": [
+        "COIN"
+      ],
+      "signal": "BULL",
+      "note": "adding position",
+      "time": "2分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "MSFT",
+      "price": "$508.16",
+      "chg": "+1.63%",
+      "nickname": "華爾吹哥",
+      "note": "明天將會大爆跌",
+      "signal": "BEAR",
+      "time": "2分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "MSFT",
+      "price": "$508.16",
+      "chg": "+1.63%",
+      "nickname": "教大道友",
+      "note": "仲有一錘 + 大盤12點崩",
+      "signal": "BEAR",
+      "time": "4分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "MSFT",
+      "price": "$508.16",
+      "chg": "+1.63%",
+      "nickname": "夜游冬雪",
+      "note": "拉高出貨",
+      "signal": "BEAR",
+      "time": "1分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "MSFT",
+      "price": "$508.16",
+      "chg": "+1.63%",
+      "nickname": "八面绿",
+      "note": "歇會再拉",
+      "signal": "BULL",
+      "time": "11分鐘前",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "AAPL",
+      "price": "$306.71",
+      "chg": "-2.03%",
+      "nickname": "暴富進行中",
+      "note": "根本班友仔淨係想殺期權咋嘛",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "AAPL",
+      "price": "$306.71",
+      "chg": "-2.03%",
+      "nickname": "命里八字有NVDA",
+      "note": "指定能跌破300",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "AAPL",
+      "price": "$306.71",
+      "chg": "-2.03%",
+      "nickname": "大沽奶",
+      "note": "280也是可以的",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "AAPL",
+      "price": "$306.71",
+      "chg": "-2.03%",
+      "nickname": "非洲片皮鵝",
+      "note": "其他股在飆它不升！也是跌！",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "MSFT",
+      "price": "$510.06",
+      "chg": "+2.01%",
+      "nickname": "八面绿",
+      "note": "反彈開始 不誘空 PUT散戶夠了就可以噴",
+      "signal": "BULL",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "MSFT",
+      "price": "$510.06",
+      "chg": "+2.01%",
+      "nickname": "大道友",
+      "note": "現在估計要回衝515",
+      "signal": "BULL",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "MSFT",
+      "price": "$510.06",
+      "chg": "+2.01%",
+      "nickname": "八面绿",
+      "note": "今晚就卡210磨",
+      "signal": "NEUTRAL",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "GOOGL",
+      "price": "$353.88",
+      "chg": "-0.12%",
+      "nickname": "34974183",
+      "note": "想一分都很難，跌4塊卻很容易",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "GOOGL",
+      "price": "$353.88",
+      "chg": "-0.12%",
+      "nickname": "抽象樂天派",
+      "note": "哈薩比斯是不是也要走？谷歌內部分歧很大",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "GOOGL",
+      "price": "$353.88",
+      "chg": "-0.12%",
+      "nickname": "輕倉等瀑布",
+      "note": "嚇死人，還以為要突破賣飛，原來是賣高等CPI,PPI",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "AMZN",
+      "price": "$279.87",
+      "chg": "+1.96%",
+      "nickname": "内部人士透露",
+      "note": "沒有量拉這麼急是不是有點不懷好意？",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "AMZN",
+      "price": "$279.87",
+      "chg": "+1.96%",
+      "nickname": "无私的雪莱",
+      "note": "已現準備下調跡象",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "META",
+      "price": "$600.10",
+      "chg": "+1.35%",
+      "nickname": "大沽奶",
+      "note": "大手加倉，目標650",
+      "signal": "BULL",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "META",
+      "price": "$600.10",
+      "chg": "+1.35%",
+      "nickname": "你我的约定",
+      "note": "努努力啊 一步之遙",
+      "signal": "BULL",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "TSLA",
+      "price": "$330.79",
+      "chg": "+0.67%",
+      "nickname": "错过也不追高",
+      "note": "330左右玩5年了",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "TSLA",
+      "price": "$330.79",
+      "chg": "+0.67%",
+      "nickname": "233928581",
+      "note": "330有這麼困難？千斤頂",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "TSLA",
+      "price": "$330.79",
+      "chg": "+0.67%",
+      "nickname": "没人比我更懂k线",
+      "note": "330有髒東西",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "TSLA",
+      "price": "$330.79",
+      "chg": "+0.67%",
+      "nickname": "特斯拉抄家啦",
+      "note": "有時候挺想未成年僅退款",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "NVDA",
+      "price": "$219.43",
+      "chg": "-2.02%",
+      "nickname": "美债、中丐两不碰",
+      "note": "千萬別買這貨的期權",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "NVDA",
+      "price": "$219.43",
+      "chg": "-2.02%",
+      "nickname": "命里八字有NVDA",
+      "note": "設了211買入，明天設205",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "NVDA",
+      "price": "$219.43",
+      "chg": "-2.02%",
+      "nickname": "祝你我早日暴富",
+      "note": "磨吧逢低加倉，這麼大的盤害怕的話可以停止炒股回歸生活",
+      "signal": "BULL",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "PDD",
+      "price": "$92.53",
+      "chg": "+0.84%",
+      "nickname": "TimePower",
+      "note": "100以下都閉眼買，起飛",
+      "signal": "BULL",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "PDD",
+      "price": "$92.53",
+      "chg": "+0.84%",
+      "nickname": "kris 爱投资",
+      "note": "這麼好個趨勢，看到年底120",
+      "signal": "BULL",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "ALB",
+      "price": "$131.78",
+      "chg": "+0.51%",
+      "nickname": "埋棵种子",
+      "note": "先看180必到，然後再看歷史新高",
+      "signal": "BULL",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "ALB",
+      "price": "$131.78",
+      "chg": "+0.51%",
+      "nickname": "LuisFort",
+      "note": "稀土可能要炒起來了",
+      "signal": "BULL",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "ALB",
+      "price": "$131.78",
+      "chg": "+0.51%",
+      "nickname": "26414670",
+      "note": "機構目標價一直在跌，真走到頭了嗎",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "MU",
+      "price": "$878.73",
+      "chg": "+0.13%",
+      "nickname": "愛食愛玩愛享受",
+      "note": "高呼上呀 沖呀",
+      "signal": "BULL",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "MU",
+      "price": "$878.73",
+      "chg": "+0.13%",
+      "nickname": "明晩1800美刀開",
+      "note": "好似有啲像見底",
+      "signal": "BULL",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "MU",
+      "price": "$878.73",
+      "chg": "+0.13%",
+      "nickname": "KKCH",
+      "note": "想輸都難",
+      "signal": "BULL",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "MU",
+      "price": "$878.73",
+      "chg": "+0.13%",
+      "nickname": "美股Options Trader",
+      "note": "磨損太嚴重，不玩末日了",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "ARM",
+      "price": "$272.11",
+      "chg": "-3.70%",
+      "nickname": "你只會後悔買的不夠多",
+      "note": "崩盤優先空這票 這PE高得嚇人",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "ARM",
+      "price": "$272.11",
+      "chg": "-3.70%",
+      "nickname": "青山股神加菲貓大師",
+      "note": "老孫靠AI cpu畫大餅然後高位派貨",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "ARM",
+      "price": "$272.11",
+      "chg": "-3.70%",
+      "nickname": "231095736",
+      "note": "會唔會跟intel一樣發新股？",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "ARM",
+      "price": "$272.11",
+      "chg": "-3.70%",
+      "nickname": "韭菜阿樂",
+      "note": "intel賣股票也關你事？",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "COIN",
+      "price": "$149.20",
+      "chg": "-2.86%",
+      "nickname": "奥特曼守夜人",
+      "note": "估計這波要破百了，各自珍重",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "COIN",
+      "price": "$149.20",
+      "chg": "-2.86%",
+      "nickname": "使徒行者之蟈蟈",
+      "note": "回139不破再買了，趕快給我跌",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "COIN",
+      "price": "$149.20",
+      "chg": "-2.86%",
+      "nickname": "暴躁凱蒂",
+      "note": "腰斬",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
+    },
+    {
+      "stock": "COIN",
+      "price": "$149.20",
+      "chg": "-2.86%",
+      "nickname": "美债、中丐两不碰",
+      "note": "準備這樣橫盤個兩三年？",
+      "signal": "BEAR",
+      "time": "剛好",
+      "source": "futu",
+      "added": "2026-08-10"
     }
   ],
   "tracked_users": [
@@ -2426,6 +3151,270 @@
       "source": "futu",
       "stocks": [
         "NVDA"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "皓軒",
+      "source": "futu",
+      "stocks": [
+        "PDD"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "kris 爱投资",
+      "source": "futu",
+      "stocks": [
+        "PDD"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "买够一百万拼多多",
+      "source": "futu",
+      "stocks": [
+        "PDD"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "Sunny2023",
+      "source": "futu",
+      "stocks": [
+        "PDD"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "群雄逐鹿1",
+      "source": "futu",
+      "stocks": [
+        "TSLA"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "没人比我更懂k线",
+      "source": "futu",
+      "stocks": [
+        "TSLA"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "小鹏汽车空军总司令",
+      "source": "futu",
+      "stocks": [
+        "TSLA"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "埋棵种子",
+      "source": "futu",
+      "stocks": [
+        "ALB"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "断虚热",
+      "source": "futu",
+      "stocks": [
+        "MU"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "美股Options Trader",
+      "source": "futu",
+      "stocks": [
+        "MU"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "抽象樂天派",
+      "source": "futu",
+      "stocks": [
+        "GOOGL"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "無敌冲击波",
+      "source": "futu",
+      "stocks": [
+        "GOOGL"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "韭菜阿樂",
+      "source": "futu",
+      "stocks": [
+        "ARM"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "青山股神加菲貓大師",
+      "source": "futu",
+      "stocks": [
+        "ARM"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "你只會後悔買的不夠多",
+      "source": "futu",
+      "stocks": [
+        "ARM"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "奥特曼守夜人",
+      "source": "futu",
+      "stocks": [
+        "COIN"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "順勢炒家",
+      "source": "futu",
+      "stocks": [
+        "COIN"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "开畅的杜魯",
+      "source": "futu",
+      "stocks": [
+        "COIN"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "華爾吹哥",
+      "source": "futu",
+      "stocks": [
+        "MSFT"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "教大道友",
+      "source": "futu",
+      "stocks": [
+        "MSFT"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "夜游冬雪",
+      "source": "futu",
+      "stocks": [
+        "MSFT"
+      ],
+      "total_predictions": 1,
+      "accuracy": null,
+      "win_rate": null,
+      "avg_rr": null
+    },
+    {
+      "uid": null,
+      "nickname": "八面绿",
+      "source": "futu",
+      "stocks": [
+        "MSFT"
       ],
       "total_predictions": 1,
       "accuracy": null,
